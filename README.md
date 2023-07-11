@@ -1,9 +1,11 @@
 # Serverless Application with React, Node & AWS (API Gateway, Lambda Function, S3 & DynamoDB)
 
-Technologies Used: 
-Frontend: React.js & Material-UI
-Backend: Node.js & AWS (API Gateway, Lambda Function)
-Database: DynamoDB
+### Technologies Used: 
+### Frontend: React.js & Material-UI
+### Backend: Node.js & AWS (API Gateway, Lambda Function)
+### Database: DynamoDB
+
+<img align="center" alt="Coding" width="850" height ="300" src="./user-management/src/ReactAWS.png">
 
 # Getting Started with Create React App
 
